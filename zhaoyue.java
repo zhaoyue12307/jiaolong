@@ -10,5 +10,7 @@ public class Demo1 {
 public void test(){
     System.out.println("赵悦笑一个");
 }
-public void test1(){}
+public void test1(){
+	System.out.println("赵悦再笑一个");
+}
 }
